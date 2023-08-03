@@ -1,5 +1,5 @@
 jsonschema==2.6.0
-loguru==0.4.0
+loguru==0.5.3
 numpy==1.18.3
 packaging==19.2
 plumbum==1.6.8
